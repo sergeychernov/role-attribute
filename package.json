@@ -22,7 +22,7 @@
     "url": "https://github.com/sergeychernov/role-attribute/issues"
   },
   "homepage": "https://github.com/sergeychernov/role-attribute#readme",
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^3.5.3"
   }
 }
