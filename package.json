@@ -1,0 +1,28 @@
+{
+  "name": "role-attribute",
+  "version": "1.0.0",
+  "description": "A Role Attribute for HTML5",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeychernov/role-attribute.git"
+  },
+  "keywords": [
+    "html5",
+    "semantic",
+    "role"
+  ],
+  "author": "Sergey Chernov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergeychernov/role-attribute/issues"
+  },
+  "homepage": "https://github.com/sergeychernov/role-attribute#readme",
+  "dependencies": {
+    "typescript": "^3.5.3"
+  }
+}
